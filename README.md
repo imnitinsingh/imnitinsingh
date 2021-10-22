@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imnitinsingh
 - 👀 I’m interested in Machine Learning and Operations Research
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning Deep Reinforcement Learning
 - 📫 How to reach me ...
 
 <!---
