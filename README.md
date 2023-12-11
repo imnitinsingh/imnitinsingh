@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @imnitinsingh
-- 👀 I’m interested in Machine Learning and Operations Research
-- 🌱 I’m currently learning Deep Reinforcement Learning
-- 📫 How to reach me ...
+- 👀 I’m interested in Operations Research, Deep Reinforcement Learning, Data Science and Data Vizualization
+- 📫 Reach out to me @ nitinsingh.iitkgp@gmail.com
 
 <!---
 imnitinsingh/imnitinsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
